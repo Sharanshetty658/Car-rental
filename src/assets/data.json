@@ -1,0 +1,60 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "type": "Sedan",
+        "color": "Silver",
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "availability": true,
+        "description": "The Toyota Camry is a stylish and reliable sedan with advanced safety features. Perfect for both city commuting and long drives."
+      },
+      {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "type": "Sedan",
+        "color": "Blue",
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "availability": true,
+        "description": "The Honda Civic is a fuel-efficient and compact sedan known for its sporty design and comfortable interior."
+      },
+      {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Escape",
+        "year": 2020,
+        "type": "SUV",
+        "color": "Black",
+        "fuelType": "Hybrid",
+        "transmission": "Automatic",
+        "availability": false,
+        "description": "The Ford Escape is a versatile SUV with a hybrid engine, offering a spacious interior and advanced technology for a comfortable ride."
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "name": "Downtown Office",
+        "address": "123 Main St, Cityville"
+      },
+      {
+        "id": 2,
+        "name": "Airport Branch",
+        "address": "Airport Rd, Airport City"
+      }
+    ],
+    "rentalOptions": {
+      "insurance": {
+        "basic": 10,
+        "premium": 20
+      },
+      "additionalDriverFee": 5
+    }
+  }
+  

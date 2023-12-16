@@ -1,8 +1,13 @@
-img{
-    height: 150px;
-    width: px;
-}
 
-.box{
-    display: flex;
-}
+  .card { /* Adjust the width and margin as needed */
+    margin: 1rem;
+    width: 18rem;
+    height:19.5rem;
+    border-radius: 10px;
+  }
+
+  h5{
+    padding-bottom: 5px;
+    width: fit-content;
+  }
+  
